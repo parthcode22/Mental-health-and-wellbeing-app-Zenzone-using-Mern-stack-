@@ -1,0 +1,29 @@
+/* Home.css */
+.home-container {
+    height: calc(100vh - 60px); /* Adjust 60px to match your navbar height */
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin-top: -60px; /* Negative margin to pull content up */
+    padding-top: 60px; /* Padding to prevent content from going under navbar */
+  }
+  
+  .main-content {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .spline-container {
+    flex-grow: 1;
+    position: relative;
+  }
+  
+  /* Ensure Spline takes up full height of its container */
+  .spline-container > div {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+  }

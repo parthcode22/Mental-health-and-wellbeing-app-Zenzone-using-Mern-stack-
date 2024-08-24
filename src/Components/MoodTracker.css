@@ -1,0 +1,175 @@
+/* Existing styles */
+body {
+  background-color: #a5fcad;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* New wrapper for centering content */
+.content-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(100vh - var(--navbar-height));
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.app-container {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.mood-tracker {
+  padding: 30px;
+}
+
+h2 {
+  text-align: center;
+  color: #2c7a34;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.streak {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: #2c7a34;
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+label {
+  font-weight: bold;
+  color: #2c7a34;
+}
+
+input[type="text"], 
+input[type="number"], 
+textarea,
+input[type="date"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #2c7a34;
+  border-radius: 4px;
+  font-size: 16px;
+  box-sizing: border-box;
+  background-color: #e8fff0;
+  color: #1a4d1f;
+}
+
+input[type="number"] {
+  width: 60px;
+}
+
+textarea {
+  height: 80px;
+  resize: vertical;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.1s;
+}
+
+button:hover {
+  transform: translateY(-2px);
+}
+
+button:active {
+  transform: translateY(0);
+}
+
+button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+
+/* Submit button */
+button[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+}
+
+button[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+/* Show summary button */
+.toggle-summary {
+  margin-top: 20px;
+  background-color: #3498db;
+  color: white;
+}
+
+.toggle-summary:hover {
+  background-color: #2980b9;
+}
+
+.mood-summary {
+  margin-top: 30px;
+  background-color: #e0ffe3;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* ... (rest of your CSS remains unchanged) ... */
+
+@media (max-width: 600px) {
+  .app-container {
+    border-radius: 0;
+  }
+}
+/* New styles for emoji buttons */
+.mood-selector {
+  display: flex;
+  flex-wrap: nowrap; /* Ensure items do not wrap to the next line */
+  gap: 10px; /* Space between emojis */
+  justify-content: center; /* Center the emoji buttons horizontally */
+  margin-bottom: 20px;
+}
+
+.mood-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 24px;
+  padding: 10px; /* Add padding for better spacing */
+}
+
+.mood-button.selected {
+  border: 2px solid #007bff;
+  border-radius: 10px; /* Rounded corners */
+}
+
+.mood-emoji {
+  font-size: 32px;
+}
+
+.mood-name {
+  font-size: 14px;
+  margin-top: 5px;
+  color: #2c7a34; /* Match the color with the rest of the text */
+}

@@ -1,0 +1,301 @@
+therapist name,qualification,location,availability,experience,average fees
+Dr. Ravi Kumar,Ph.D in Clinical Psychology,Bangalore,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",10,1500
+Ms. Priya Singh,M.A in Counseling Psychology,Delhi,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",8,1200
+Dr. Amit Patel,M.D in Psychiatry,Mumbai,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",12,2000
+Ms. Sangeeta Gupta,M.A in Clinical Psychology,Hyderabad,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",5,1000
+Dr. Rajesh Verma,Ph.D in Clinical Psychology,Pune,"Monday, Wednesday, Friday, 9:00 AM - 5:00 PM",7,1800
+Ms. Nisha Singh,M.A in Counseling Psychology,Ahmedabad,"Tuesday, Thursday, Saturday, 11:00 AM - 7:00 PM",6,1300
+Dr. Anand Patel,M.D in Psychiatry,Chennai,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",9,1900
+Ms. Rashmi Gupta,M.A in Clinical Psychology,Kolkata,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",4,800
+Dr. Rohit Verma,Ph.D in Clinical Psychology,Jaipur,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",11,2200
+Ms. Meera Singh,M.A in Counseling Psychology,Lucknow,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",3,700
+Dr. Suresh Patel,M.D in Psychiatry,Kochi,"Monday, Wednesday, Friday, 9:00 AM - 5:00 PM",1,500
+Ms. Revathy Gupta,M.A in Clinical Psychology,Thiruvananthapuram,"Tuesday, Thursday, Saturday, 11:00 AM - 7:00 PM",2,600
+Dr. Arjun Verma,Ph.D in Clinical Psychology,Patna,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",4,1000
+Ms. Sita Singh,M.A in Counseling Psychology,Ranchi,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",1,400
+Dr. Vijay Patel,M.D in Psychiatry,Guwahati,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",3,700
+Ms. Lakshmi Gupta,M.A in Clinical Psychology,Visakhapatnam,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",2,500
+Dr. Hari Verma,Ph.D in Clinical Psychology,Bhubaneswar,"Monday, Wednesday, Friday, 9:00 AM - 5:00 PM",5,1200
+Ms. Uma Singh,M.A in Counseling Psychology,Jammu,"Tuesday, Thursday, Saturday, 11:00 AM - 7:00 PM",1,300
+Dr. Rakesh Patel,M.D in Psychiatry,Srinagar,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",6,1400
+Ms. Swati Gupta,M.A in Clinical Psychology,Dharwad,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",2,500
+Dr. Suresh Verma,Ph.D in Clinical Psychology,Bikaner,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",7,1700
+Ms. Neha Singh,M.A in Counseling Psychology,Jalandhar,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",3,600
+Dr. Rohit Patel,M.D in Psychiatry,Ghaziabad,"Monday, Wednesday, Friday, 9:00 AM - 5:00 PM",8,1600
+Ms. Riya Gupta,M.A in Clinical Psychology,Agra,"Tuesday, Thursday, Saturday, 11:00 AM - 7:00 PM",1,300
+Dr. Rajesh Verma,Ph.D in Clinical Psychology,Mysore,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",9,1800
+Ms. Nisha Singh,M.A in Counseling Psychology,Surat,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",4,800
+Dr. Anand Patel,M.D in Psychiatry,Coimbatore,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",10,2100
+Ms. Rashmi Gupta,M.A in Clinical Psychology,Bhubaneswar,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",5,1100
+Dr. Aarav Singh,M.D in Psychiatry,Hyderabad,"Monday, Wednesday, Friday, 9:00 AM - 5:00 PM",1,550
+Ms. Ananya Verma,M.A in Clinical Psychology,Jaipur,"Tuesday, Thursday, Saturday, 11:00 AM - 7:00 PM",2,650
+Dr. Aryan Patel,Ph.D in Clinical Psychology,Ahmedabad,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",4,1100
+Ms. Aisha Singh,M.A in Counseling Psychology,Kolkata,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",1,450
+Dr. Aarav Gupta,M.D in Psychiatry,Chennai,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",3,750
+Ms. Ananya Singh,M.A in Clinical Psychology,Lucknow,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",2,550
+Dr. Aryan Verma,Ph.D in Clinical Psychology,Pune,"Monday, Wednesday, Friday, 9:00 AM - 5:00 PM",5,1250
+Ms. Aisha Patel,M.A in Counseling Psychology,Thiruvananthapuram,"Tuesday, Thursday, Saturday, 11:00 AM - 7:00 PM",1,350
+Dr. Aarav Gupta,M.D in Psychiatry,Delhi,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",6,1500
+Ms. Ananya Singh,M.A in Clinical Psychology,Mumbai,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",2,600
+Dr. Aryan Verma,Ph.D in Clinical Psychology,Bangalore,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",7,1750
+Ms. Aisha Patel,M.A in Counseling Psychology,Patna,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",3,700
+Dr. Aarav Gupta,M.D in Psychiatry,Kochi,"Monday, Wednesday, Friday, 9:00 AM - 5:00 PM",8,1600
+Ms. Ananya Singh,M.A in Clinical Psychology,Kanpur,"Tuesday, Thursday, Saturday, 11:00 AM - 7:00 PM",1,300
+Dr. Aryan Verma,Ph.D in Clinical Psychology,Nagpur,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",9,1850
+Ms. Aisha Patel,M.A in Counseling Psychology,Jammu,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",4,850
+Dr. Aarav Gupta,M.D in Psychiatry,Ranchi,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",10,2200
+Ms. Ananya Singh,M.A in Clinical Psychology,Bhubaneswar,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",5,1200
+Dr. Aryan Verma,Ph.D in Clinical Psychology,Ghaziabad,"Monday, Wednesday, Friday, 9:00 AM - 5:00 PM",6,1550
+Ms. Aisha Patel,M.A in Counseling Psychology,Agra,"Tuesday, Thursday, Saturday, 11:00 AM - 7:00 PM",1,350
+Dr. Aarav Gupta,M.D in Psychiatry,Jaipur,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",7,1750
+Ms. Ananya Singh,M.A in Clinical Psychology,Hyderabad,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",2,600
+Dr. Aryan Verma,Ph.D in Clinical Psychology,Lucknow,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",8,1650
+Ms. Aisha Patel,M.A in Counseling Psychology,Bangalore,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",3,750
+Dr. Aarav Gupta,M.D in Psychiatry,Chennai,"Monday, Wednesday, Friday, 9:00 AM - 5:00 PM",9,1850
+Ms. Ananya Singh,M.A in Clinical Psychology,Kolkata,"Tuesday, Thursday, Saturday, 11:00 AM - 7:00 PM",1,300
+Dr. Aryan Verma,Ph.D in Clinical Psychology,Delhi,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",10,2200
+Ms. Aisha Patel,M.A in Counseling Psychology,Mumbai,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",4,850
+Dr. Aarav Singh,Ph.D in Clinical Psychology,Ahmedabad,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",5,1400
+Ms. Ananya Gupta,M.A in Counseling Psychology,Pune,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",2,500
+Dr. Aryan Patel,M.D in Psychiatry,Surat,"Monday, Wednesday, Friday, 9:00 AM - 5:00 PM",7,1500
+Ms. Aisha Singh,M.A in Clinical Psychology,Jalandhar,"Tuesday, Thursday, Saturday, 11:00 AM - 7:00 PM",1,250
+Dr. Aarav Verma,Ph.D in Clinical Psychology,Visakhapatnam,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",6,1300
+Ms. Ananya Gupta,M.A in Counseling Psychology,Thiruvananthapuram,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",3,650
+Dr. Aryan Patel,M.D in Psychiatry,Bhubaneswar,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",8,1700
+Ms. Aisha Singh,M.A in Clinical Psychology,Coimbatore,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",1,300
+Dr. Aarav Verma,Ph.D in Clinical Psychology,Jaipur,"Monday, Wednesday, Friday, 9:00 AM - 5:00 PM",9,1600
+Ms. Ananya Gupta,M.A in Counseling Psychology,Kochi,"Tuesday, Thursday, Saturday, 11:00 AM - 7:00 PM",2,450
+Dr. Aryan Patel,M.D in Psychiatry,Lucknow,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",7,1400
+Ms. Aisha Singh,M.A in Clinical Psychology,Patna,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",1,200
+Dr. Aarav Verma,Ph.D in Clinical Psychology,Indore,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",6,1200
+Ms. Ananya Gupta,M.A in Counseling Psychology,Nagpur,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",2,550
+Dr. Aryan Patel,M.D in Psychiatry,Ranchi,"Monday, Wednesday, Friday, 9:00 AM - 5:00 PM",8,1500
+Ms. Aisha Singh,M.A in Clinical Psychology,Bangalore,"Tuesday, Thursday, Saturday, 11:00 AM - 7:00 PM",1,350
+Dr. Aarav Verma,Ph.D in Clinical Psychology,Hyderabad,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",9,1800
+Ms. Ananya Gupta,M.A in Counseling Psychology,Chennai,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",2,400
+Dr. Aryan Patel,M.D in Psychiatry,Delhi,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",7,1600
+Ms. Aisha Singh,M.A in Clinical Psychology,Mumbai,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",1,300
+Dr. Aarav Verma,Ph.D in Clinical Psychology,Kolkata,"Monday, Wednesday, Friday, 9:00 AM - 5:00 PM",6,1300
+Ms. Ananya Gupta,M.A in Counseling Psychology,Ahmedabad,"Tuesday, Thursday, Saturday, 11:00 AM - 7:00 PM",2,500
+Dr. Aryan Patel,M.D in Psychiatry,Pune,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",8,1700
+Ms. Aisha Singh,M.A in Clinical Psychology,Surat,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",1,250
+Dr. Aarav Verma,Ph.D in Clinical Psychology,Jalandhar,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",6,1300
+Ms. Ananya Gupta,M.A in Counseling Psychology,Visakhapatnam,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",2,550
+Dr. Aryan Patel,M.D in Psychiatry,Bhubaneswar,"Monday, Wednesday, Friday, 9:00 AM - 5:00 PM",8,1500
+Ms. Aisha Singh,M.A in Clinical Psychology,Thiruvananthapuram,"Tuesday, Thursday, Saturday, 11:00 AM - 7:00 PM",1,300
+Dr. Riya Kapoor,M.D in Psychiatry,Jaipur,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",5,1200
+Ms. Ria Patel,M.A in Clinical Psychology,Jodhpur,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",3,450
+Dr. Rohan Gupta,Ph.D in Clinical Psychology,Udaipur,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",4,1600
+Ms. Ridhima Singh,M.A in Counseling Psychology,Ajmer,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",1,300
+Dr. Ravi Verma,M.D in Psychiatry,Kota,"Monday, Wednesday, Friday, 9:00 AM - 5:00 PM",6,1400
+Ms. Ritu Singh,M.A in Clinical Psychology,Bikaner,"Tuesday, Thursday, Saturday, 11:00 AM - 7:00 PM",2,500
+Dr. Rakesh Patel,Ph.D in Clinical Psychology,Sikar,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",7,1800
+Ms. Reena Gupta,M.A in Counseling Psychology,Chittorgarh,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",1,350
+Dr. Raghav Verma,M.D in Psychiatry,Alwar,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",5,1300
+Ms. Ruchi Singh,M.A in Clinical Psychology,Bharatpur,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",2,400
+Dr. Rakesh Patel,Ph.D in Clinical Psychology,Jaisalmer,"Monday, Wednesday, Friday, 9:00 AM - 5:00 PM",8,1900
+Ms. Riya Gupta,M.A in Counseling Psychology,Rajsamand,"Tuesday, Thursday, Saturday, 11:00 AM - 7:00 PM",1,320
+Dr. Rohan Verma,M.D in Psychiatry,Sawai Madhopur,"Monday, Wednesday, Friday, 10:00 AM - 6:00 PM",4,1500
+Ms. Ridhima Singh,M.A in Clinical Psychology,Dholpur,"Tuesday, Thursday, Saturday, 9:00 AM - 5:00 PM",2,450
+Dr. Ravi Patel,Ph.D in Clinical Psychology,Bundi,"Monday, Wednesday, Friday, 11:00 AM - 7:00 PM",6,1700
+Ms. Ruchi Gupta,M.A in Counseling Psychology,Tonk,"Tuesday, Thursday, Saturday, 10:00 AM - 6:00 PM",1,370
+Dr. Shreya Patel,PhD in Clinical Psychology,"Mumbai, Maharashtra, India",Monday-Friday 10am-6pm,15,7500
+Dr. Ravi Kumar,MD in Psychiatry,"Bangalore, Karnataka, India",Saturday-Wednesday 2pm-9pm,10,6000
+Ms. Sneha Jain,MSW in Social Work,"Delhi, Delhi, India",Monday-Friday 1pm-8pm,8,5000
+Dr. Aarav Gupta,PhD in Neuroscience,"Hyderabad, Telangana, India","Monday, Wednesday, Friday 10am-5pm",12,8000
+Ms. Ananya Roy,M.A in Counseling Psychology,"Chennai, Tamil Nadu, India",Tuesday-Thursday 12pm-7pm,7,4500
+Dr. Shilpa Sankar,"MD in General Medicine, Specialization in Psychiatry","Kolkata, West Bengal, India",Monday-Friday 3pm-9pm,14,7000
+Mr. Mohammad Ali,"B.A in Psychology, M.A in Counseling Psychology","Ahmedabad, Gujarat, India",Monday-Saturday 10am-6pm,5,3500
+Dr. Nandini Sharma,MD in Clinical Psychology,"Pune, Maharashtra, India",Monday-Friday 11am-7pm,11,6500
+Ms. Divya Reddy,"MSW in Social Work, Specialization in Mental Health","Vizag, Andhra Pradesh, India",Monday-Thursday 3pm-8pm,6,4000
+Dr. Karan Kapoor,PhD in Clinical Psychology,"Jaipur, Rajasthan, India",Monday-Saturday 10am-7pm,13,8500
+Dr. Parvathy Menon,MD in Psychiatry,"Kochi, Kerala, India",Tuesday-Friday 11am-7pm,10,6500
+Ms. Priya Kumar,"MSW in Social Work, Specialization in Mental Health","Vellore, Tamil Nadu, India",Monday-Thursday 1pm-8pm,9,5500
+Dr. Ritvik Sharma,"PhD in Neuroscience, Specialization in Clinical Psychology","Noida, Uttar Pradesh, India",Monday-Saturday 10am-6pm,12,7500
+Ms. Neha Patel,M.A in Counseling Psychology,"Bhubaneswar, Odisha, India",Monday-Friday 12pm-8pm,7,4000
+Dr. Ankit Gupta,"MD in Psychiatry, Specialization in Child Psychiatry","Lucknow, Uttar Pradesh, India",Monday-Friday 3pm-8pm,9,7000
+Ms. Nidhi Verma,"MSW in Social Work, Specialization in Mental Health","Dehradun, Uttarakhand, India",Monday-Thursday 1pm-7pm,8,4500
+Dr. Vidhya Ramesh,PhD in Clinical Psychology,"Thiruvananthapuram, Kerala, India",Monday-Friday 10am-5pm,14,9000
+Ms. Aishwarya Sivaraman,"M.A in Counseling Psychology, Specialization in Marriage and Family Therapy","Kochi, Kerala, India",Tuesday-Thursday 2pm-7pm,5,3000
+Dr. Arjun Kishore,"MD in General Medicine, Specialization in Psychiatry","Agartala, Tripura, India",Monday-Friday 11am-7pm,10,6000
+Ms. Sushmita Paul,"MSW in Social Work, Specialization in Mental Health","Siliguri, West Bengal, India",Monday-Saturday 10am-6pm,7,4000
+Dr. Nisha Patel,PhD in Clinical Psychology,"Surat, Gujarat, India",Monday-Friday 9am-6pm,13,7500
+Ms. Ria Gupta,"MSW in Social Work, Specialization in Mental Health","Ghaziabad, Uttar Pradesh, India",Monday-Saturday 11am-7pm,6,4500
+Dr. Aryan Singh,MD in Psychiatry,"Gurgaon, Haryana, India",Monday-Friday 12pm-8pm,12,7000
+Ms. Revathy Nair,"M.A in Counseling Psychology, Specialization in Child Psychology","Thrissur, Kerala, India",Tuesday-Thursday 1pm-7pm,8,4500
+Dr. Shivam Sharma,"PhD in Neuroscience, Specialization in Clinical Psychology","Varanasi, Uttar Pradesh, India",Monday-Saturday 9am-5pm,11,6500
+Ms. Nandini Chakraborty,"MSW in Social Work, Specialization in Mental Health","Burdwan, West Bengal, India",Monday-Thursday 10am-5pm,9,5000
+Dr. Ritesh Jain,PhD in Clinical Psychology,"Jabalpur, Madhya Pradesh, India",Monday-Friday 1pm-8pm,14,8000
+Dr. Shweta Rao,"MD in Psychiatry, Specialization in Geriatric Psychiatry","Bangalore, Karnataka, India",Monday-Friday 11am-7pm,10,7000
+Ms. Parvathy Kannan,"M.A in Counseling Psychology, Specialization in Art Therapy","Chennai, Tamil Nadu, India",Tuesday-Friday 10am-6pm,8,5000
+Dr. Siddharth Dutt,"PhD in Neuroscience, Specialization in Clinical Psychology","Mumbai, Maharashtra, India",Monday-Saturday 9am-5pm,12,9000
+Ms. Priya Bansal,"MSW in Social Work, Specialization in Mental Health","Delhi, NCR, India",Monday-Friday 1pm-8pm,7,5500
+Dr. Harshita Gupta,"MD in Psychiatry, Specialization in Child Psychiatry","Ahmedabad, Gujarat, India",Monday-Friday 3pm-7pm,10,7500
+Ms. Ananya Chakraborty,"MSW in Social Work, Specialization in Mental Health","Kolkata, West Bengal, India",Monday-Saturday 10am-6pm,9,6000
+Dr. Sushmita Singh,"PhD in Clinical Psychology, Specialization in Forensic Psychology","Pune, Maharashtra, India",Monday-Friday 9am-5pm,13,8500
+Ms. Archana Verma,"M.A in Counseling Psychology, Specialization in Career Counseling","Patna, Bihar, India",Monday-Thursday 12pm-8pm,5,3500
+Dr. Tanvi Patel,"MD in Psychiatry, Specialization in Psychoanalysis","Jaipur, Rajasthan, India",Monday-Friday 11am-7pm,11,8000
+Ms. Simrit Kaur,"MSW in Social Work, Specialization in Mental Health","Jalandhar, Punjab, India",Monday-Friday 9am-5pm,7,4500
+Dr. Sangeeta Gupta,"PhD in Neuroscience, Specialization in Clinical Psychology","Allahabad, Uttar Pradesh, India",Monday-Saturday 10am-6pm,12,9500
+Ms. Nivedita Das,"MSW in Social Work, Specialization in Mental Health","Dhanbad, Jharkhand, India",Monday-Thursday 1pm-6pm,8,6000
+Dr. Ravi Kumar,"MD in Psychiatry, Specialization in Psychopharmacology","Tiruchirappalli, Tamil Nadu, India",Monday-Friday 9am-5pm,15,9000
+Ms. Jyoti Sharma,"MSW in Social Work, Specialization in Mental Health","Jamshedpur, Jharkhand, India",Monday-Friday 1pm-7pm,9,7000
+Dr. Nandini Reddy,"MD in Psychiatry, Specialization in Psychodynamic Therapy","Noida, Uttar Pradesh, India",Monday-Friday 10am-6pm,13,8000
+Ms. Sangeeta Chaturvedi,"MSW in Social Work, Specialization in Mental Health","Ghaziabad, Uttar Pradesh, India",Monday-Friday 1pm-7pm,6,5000
+Dr. Rohit Verma,"PhD in Clinical Psychology, Specialization in Cognitive Behavioral Therapy","Bareilly, Uttar Pradesh, India",Monday-Saturday 9am-5pm,10,7500
+Ms. Geeta Singh,"MSW in Social Work, Specialization in Mental Health","Bhubaneswar, Odisha, India",Monday-Thursday 1pm-7pm,7,6000
+Dr. Anjali Sharma,"PhD in Neuroscience, Specialization in Clinical Psychology","Bangalore, Karnataka, India",Monday-Saturday 9am-5pm,14,8500
+Ms. Pallavi Gupta,"MSW in Social Work, Specialization in Mental Health","Mumbai, Maharashtra, India",Monday-Friday 10am-6pm,8,6500
+Dr. Aarav Singh,"MD in Psychiatry, Specialization in Neuropsychiatry","Hyderabad, Telangana, India",Monday-Friday 11am-7pm,11,8000
+Ms. Kajal Patel,"MSW in Social Work, Specialization in Mental Health","Surat, Gujarat, India",Monday-Thursday 1pm-6pm,7,7000
+Dr. Sita Rao,"PhD in Clinical Psychology, Specialization in Gestalt Therapy","Chennai, Tamil Nadu, India",Monday-Friday 9am-5pm,13,9000
+Ms. Neha Khandelwal,"MSW in Social Work, Specialization in Mental Health","Jaipur, Rajasthan, India",Monday-Saturday 10am-6pm,6,5000
+Dr. Rakesh Kumar,"MD in Psychiatry, Specialization in Cognitive Behavioral Therapy","Patna, Bihar, India",Monday-Friday 1pm-7pm,15,8500
+Ms. Sonali Verma,"MSW in Social Work, Specialization in Mental Health","Kanpur, Uttar Pradesh, India",Monday-Thursday 12pm-6pm,8,7500
+Ms. Ananya Ghosh,"MSW in Social Work, Specialization in Mental Health","Kolkata, West Bengal, India",Monday-Friday 9am-5pm,9,6000
+Dr. Aarav Singh,"MD in Psychiatry, Specialization in Neuropsychiatry","Delhi, Delhi, India",Monday-Saturday 10am-6pm,10,9500
+Ms. Bipasha Roy,"MSW in Social Work, Specialization in Mental Health","Lucknow, Uttar Pradesh, India",Monday-Saturday 12pm-7pm,5,4500
+Dr. Chaitanya Rao,"PhD in Clinical Psychology, Specialization in Family Therapy","Hyderabad, Telangana, India",Tuesday-Thursday 9am-5pm,12,8000
+Ms. Durga Prasad,"MSW in Social Work, Specialization in Mental Health","Patna, Bihar, India",Monday-Wednesday 2pm-6pm,7,5500
+Dr. Eesha Mishra,"MD in Psychiatry, Specialization in Psychoanalysis","Pune, Maharashtra, India",Monday-Saturday 1pm-7pm,8,7000
+Ms. Geeta Singh,"MSW in Social Work, Specialization in Mental Health","Mumbai, Maharashtra, India",Monday-Friday 11am-7pm,9,6500
+Dr. Harini Iyer,"PhD in Clinical Psychology, Specialization in Psychodynamic Therapy","Chennai, Tamil Nadu, India",Monday-Saturday 9am-5pm,11,8000
+Ms. Ishani Patel,"MSW in Social Work, Specialization in Mental Health","Ahmedabad, Gujarat, India",Tuesday-Thursday 1pm-6pm,6,4000
+Dr. Jatin Sharma,"MD in Psychiatry, Specialization in Psychopharmacology","Bangalore, Karnataka, India",Monday-Saturday 10am-6pm,14,10000
+Ms. Kanchana Venkatraman,"MSW in Social Work, Specialization in Mental Health","Bengaluru, Karnataka, India",Monday-Thursday 3pm-7pm,8,7500
+Dr. Laxmi Gupta,"PhD in Neuroscience, Specialization in Clinical Psychology","Ludhiana, Punjab, India",Monday-Friday 9am-5pm,15,9500
+Ms. Mahima Singh,"MSW in Social Work, Specialization in Mental Health","Rajkot, Gujarat, India",Monday-Friday 11am-5pm,7,5000
+Dr. Naina Kapoor,"MD in Psychiatry, Specialization in Psychotherapy","Jaipur, Rajasthan, India",Tuesday-Thursday 2pm-7pm,9,7000
+Ms. Parvati Mukherjee,"MSW in Social Work, Specialization in Mental Health","Dhanbad, Jharkhand, India",Monday-Wednesday 1pm-6pm,12,6500
+Dr. Raghav Jain,"PhD in Clinical Psychology, Specialization in Cognitive Behavioral Therapy","Noida, Uttar Pradesh, India",Monday-Friday 9am-5pm,10,8000
+Ms. Sabina Ahmed,"MSW in Social Work, Specialization in Mental Health","Ghaziabad, Uttar Pradesh, India",Monday-Saturday 11am-5pm,6,4500
+Dr. Tanvi Khandelwal,"MD in Psychiatry, Specialization in Child Psychiatry","Surat, Gujarat, India",Monday-Saturday 2pm-7pm,8,8000
+Ms. Ananya Mukherjee,"MSW in Social Work, Specialization in Mental Health","Kolkata, West Bengal, India",Monday-Friday 9am-5pm,11,6500
+Dr. Aakash Kumar,"MD in Psychiatry, Specialization in Psychopharmacology","Delhi, Delhi, India",Monday-Saturday 1pm-7pm,12,9000
+Ms. Bhavana Reddy,"MSW in Social Work, Specialization in Mental Health","Hyderabad, Telangana, India",Tuesday-Thursday 11am-5pm,8,7500
+Dr. Chinmay Singh,"PhD in Clinical Psychology, Specialization in Family Therapy","Pune, Maharashtra, India",Monday-Saturday 9am-5pm,9,8500
+Ms. Disha Patel,"MSW in Social Work, Specialization in Mental Health","Ahmedabad, Gujarat, India",Monday-Wednesday 2pm-6pm,5,4000
+Dr. Ekta Sharma,"MD in Psychiatry, Specialization in Psychotherapy","Bangalore, Karnataka, India",Tuesday-Thursday 10am-6pm,13,9000
+Ms. Geeta Tiwari,"MSW in Social Work, Specialization in Mental Health","Mumbai, Maharashtra, India",Monday-Friday 1pm-6pm,7,5500
+Dr. Harshita Gupta,"PhD in Clinical Psychology, Specialization in Psychodynamic Therapy","Chennai, Tamil Nadu, India",Monday-Saturday 9am-5pm,10,7500
+Ms. Ishita Mishra,"MSW in Social Work, Specialization in Mental Health","Lucknow, Uttar Pradesh, India",Monday-Thursday 11am-5pm,6,4500
+Ms. Meera Patel,"MSW in Social Work, Specialization in Mental Health","Mumbai, Maharashtra, India",Monday-Friday 10am-4pm,10,6000
+Dr. Nikhil Rao,"MD in Psychiatry, Specialization in Psychopharmacology","Bangalore, Karnataka, India",Tuesday-Thursday 2pm-7pm,7,8000
+Ms. Priya Varma,"MSW in Social Work, Specialization in Mental Health","Chennai, Tamil Nadu, India",Monday-Wednesday 9am-1pm,9,5500
+Dr. Rohit Gupta,"PhD in Clinical Psychology, Specialization in Cognitive Behavioral Therapy","Delhi, Delhi, India",Friday-Saturday 10am-5pm,11,9500
+Ms. Sangeeta Singh,"MSW in Social Work, Specialization in Mental Health","Pune, Maharashtra, India",Monday-Saturday 1pm-6pm,8,7000
+Dr. Tanmay Jain,"MD in Psychiatry, Specialization in Child Psychiatry","Hyderabad, Telangana, India",Monday-Wednesday 11am-4pm,13,8500
+Ms. Sia Paul,"MSW in Social Work, Specialization in Mental Health","Kolkata, West Bengal, India",Tuesday-Thursday 2pm-7pm,6,5000
+Dr. Akash Singh,"PhD in Clinical Psychology, Specialization in Family Therapy","Lucknow, Uttar Pradesh, India",Monday-Saturday 9am-5pm,10,8500
+Ms. Sangeeta Verma,"MSW in Social Work, Specialization in Mental Health","Rajkot, Gujarat, India",Monday-Friday 11am-5pm,7,6000
+Dr. Neha Patel,"MD in Psychiatry, Specialization in Psychotherapy","Ahmedabad, Gujarat, India",Tuesday-Friday 2pm-6pm,12,9000
+Ms. Anjali Kapoor,"MSW in Social Work, Specialization in Mental Health","Surat, Gujarat, India",Monday-Wednesday 9am-1pm,9,7000
+Dr. Rajesh Suresh,"PhD in Clinical Psychology, Specialization in Psychodynamic Therapy","Noida, Uttar Pradesh, India",Monday-Friday 10am-4pm,10,8000
+Ms. Revathy Dutt,"MSW in Social Work, Specialization in Mental Health","Jaipur, Rajasthan, India",Monday-Saturday 2pm-7pm,8,6500
+Dr. Sneha Gupta,"MD in Psychiatry, Specialization in Psychopharmacology","Ghaziabad, Uttar Pradesh, India",Tuesday-Thursday 10am-4pm,7,8000
+Ms. Nidhi Singh,"MSW in Social Work, Specialization in Mental Health","Ghaziabad, Uttar Pradesh, India",Monday-Friday 2pm-6pm,9,7500
+Dr. Ria Shah,"PhD in Clinical Psychology, Specialization in Family Therapy","Ghaziabad, Uttar Pradesh, India",Monday-Saturday 9am-5pm,10,9000
+Ms. Jasmine Singh,"MSW in Social Work, Specialization in Mental Health","Ranchi, Jharkhand, India",Monday-Friday 1pm-5pm,7,6000
+Dr. Kavi Patel,"MD in Psychiatry, Specialization in Psychotherapy","Jamshedpur, Jharkhand, India",Tuesday-Thursday 10am-4pm,9,8500
+Ms. Anisha Gupta,"MSW in Social Work, Specialization in Mental Health","Agartala, Tripura, India",Monday-Wednesday 9am-1pm,8,7500
+Dr. Pooja Verma,"PhD in Clinical Psychology, Specialization in Cognitive Behavioral Therapy","Leh, Ladakh, India",Monday-Saturday 10am-4pm,11,9000
+Dr. Smita Patel,"MD in Clinical Psychology, Specialization in Couples Therapy",Bangalore,Tuesday-Thursday 2pm-7pm,10,9000
+Dr. Ravi Kumar,"PhD in Counseling Psychology, Specialization in Grief Counseling",Mumbai,Monday-Friday 10am-3pm,15,7000
+Dr. Priya Gupta,"MD in Psychiatry, Specialization in Addiction Medicine",Delhi,Wednesday-Friday 4pm-9pm,12,9500
+Dr. Nandini Singh,"PhD in Clinical Psychology, Specialization in Eating Disorders",Chennai,Monday-Thursday 11am-4pm,8,8000
+Dr. Aarav Patel,"MD in Psychiatry, Specialization in Geriatric Psychiatry",Kolkata,Friday-Saturday 10am-3pm,11,7500
+Dr. Tanmay Jain,"MD in Psychiatry, Specialization in Child Psychiatry",Hyderabad,Monday-Wednesday 11am-4pm,13,8500
+Dr. Sneha Reddy,"PhD in Counseling Psychology, Specialization in Trauma Therapy",Pune,Tuesday-Thursday 2pm-7pm,9,6500
+Dr. Rohit Singh,"MD in Clinical Psychology, Specialization in Neuropsychology",Ahmedabad,Monday-Friday 10am-3pm,14,8000
+Dr. Ananya Gupta,"PhD in Clinical Psychology, Specialization in Cognitive Behavioral Therapy",Bangalore,Wednesday-Friday 4pm-9pm,10,9000
+Dr. Siddharth Patel,"MD in Psychiatry, Specialization in Forensic Psychiatry",Delhi,Monday-Thursday 11am-4pm,12,9500
+Dr. Ria Singh,"PhD in Counseling Psychology, Specialization in Art Therapy",Chennai,Friday-Saturday 10am-3pm,8,7000
+Dr. Aarav Gupta,"MD in Psychiatry, Specialization in Psychosomatic Medicine",Kolkata,Tuesday-Thursday 2pm-7pm,11,7500
+Dr. Sneha Jain,"PhD in Clinical Psychology, Specialization in Positive Psychology",Hyderabad,Monday-Wednesday 11am-4pm,13,8500
+Dr. Rohit Reddy,"MD in Psychiatry, Specialization in Geriatric Psychiatry",Pune,Tuesday-Thursday 2pm-7pm,9,6500
+Dr. Ananya Patel,"PhD in Counseling Psychology, Specialization in Mindfulness-Based Stress Reduction",Ahmedabad,Monday-Friday 10am-3pm,14,8000
+Dr. Siddharth Singh,"MD in Clinical Psychology, Specialization in Neuropsychology",Bangalore,Wednesday-Friday 4pm-9pm,10,9000
+Dr. Ria Gupta,"PhD in Counseling Psychology, Specialization in Cognitive Behavioral Therapy",Delhi,Monday-Thursday 11am-4pm,12,9500
+Dr. Aarav Jain,"MD in Psychiatry, Specialization in Forensic Psychiatry",Chennai,Friday-Saturday 10am-3pm,8,7000
+Dr. Sneha Patel,"PhD in Clinical Psychology, Specialization in Art Therapy",Kolkata,Tuesday-Thursday 2pm-7pm,11,7500
+Dr. Rohit Singh,"MD in Psychiatry, Specialization in Psychosomatic Medicine",Hyderabad,Monday-Wednesday 11am-4pm,13,8500
+Dr. Ananya Reddy,"PhD in Counseling Psychology, Specialization in Positive Psychology",Pune,Tuesday-Thursday 2pm-7pm,9,6500
+Dr. Siddharth Gupta,"MD in Clinical Psychology, Specialization in Mindfulness-Based Stress Reduction",Ahmedabad,Monday-Friday 10am-3pm,14,8000
+Dr. Ria Singh,"PhD in Counseling Psychology, Specialization in Cognitive Behavioral Therapy",Delhi,Wednesday-Friday 4pm-9pm,10,9000
+Dr. Aarav Patel,"MD in Psychiatry, Specialization in Forensic Psychiatry",Chennai,Monday-Thursday 11am-4pm,12,9500
+Dr. Sneha Jain,"PhD in Clinical Psychology, Specialization in Art Therapy",Kolkata,Friday-Saturday 10am-3pm,8,7000
+Dr. Rohit Reddy,"MD in Psychiatry, Specialization in Geriatric Psychiatry",Pune,Monday-Wednesday 11am-4pm,13,8500
+Dr. Ananya Gupta,"PhD in Counseling Psychology, Specialization in Positive Psychology",Ahmedabad,Tuesday-Thursday 2pm-7pm,9,6500
+Dr. Nidhi Gupta,"PhD in Clinical Psychology, Specialization in Neuropsychology",Mumbai,Tuesday-Thursday 10am-6pm,15,9000
+Dr. Ravi Kumar,"MD in Psychiatry, Specialization in Addiction Medicine",Bangalore,Monday-Friday 9am-5pm,10,7500
+Dr. Sangeeta Singh,"PhD in Counseling Psychology, Specialization in Couples Therapy",Delhi,Wednesday-Friday 2pm-8pm,12,8000
+Dr. Priya Patel,"MD in Psychiatry, Specialization in Geriatric Psychiatry",Ahmedabad,Monday-Thursday 11am-7pm,14,9500
+Dr. Aarav Sharma,"PhD in Clinical Psychology, Specialization in Child Psychology",Kolkata,Tuesday-Friday 10am-6pm,8,7000
+Dr. Ananya Verma,"MD in Psychiatry, Specialization in Forensic Psychiatry",Chennai,Monday-Wednesday 9am-5pm,11,8500
+Dr. Mohan Kapoor,"PhD in Counseling Psychology, Specialization in Eating Disorders",Pune,Thursday-Saturday 2pm-8pm,13,9000
+Dr. Rohit Singh,"MD in Psychiatry, Specialization in Psychopharmacology",Jaipur,Monday-Friday 11am-7pm,16,10000
+Dr. Sneha Reddy,"PhD in Clinical Psychology, Specialization in Trauma Therapy",Hyderabad,Tuesday-Thursday 10am-6pm,14,9500
+Dr. Arjun Patel,"MD in Psychiatry, Specialization in Geriatric Psychiatry",Ahmedabad,Monday-Thursday 11am-7pm,15,9500
+Dr. Shweta Gupta,"PhD in Clinical Psychology, Specialization in Neuropsychology",Mumbai,Tuesday-Thursday 10am-6pm,10,8000
+Dr. Aryan Singh,"MD in Psychiatry, Specialization in Addiction Medicine",Bangalore,Monday-Friday 9am-5pm,8,7500
+Dr. Ridhima Verma,"PhD in Counseling Psychology, Specialization in Couples Therapy",Delhi,Wednesday-Friday 2pm-8pm,12,8000
+Dr. Siddhartha Patel,"MD in Psychiatry, Specialization in Geriatric Psychiatry",Ahmedabad,Monday-Thursday 11am-7pm,14,9500
+Dr. Ananya Singh,"PhD in Clinical Psychology, Specialization in Child Psychology",Kolkata,Tuesday-Friday 10am-6pm,8,7000
+Dr. Rohini Verma,"MD in Psychiatry, Specialization in Forensic Psychiatry",Chennai,Monday-Wednesday 9am-5pm,11,8500
+Dr. Smith Kapoor,"PhD in Counseling Psychology, Specialization in Eating Disorders",Pune,Thursday-Saturday 2pm-8pm,13,9000
+Dr. Raj Singh,"MD in Psychiatry, Specialization in Psychopharmacology",Jaipur,Monday-Friday 11am-7pm,16,10000
+Dr. Sneha Reddy,"PhD in Clinical Psychology, Specialization in Trauma Therapy",Hyderabad,Tuesday-Thursday 10am-6pm,14,9500
+Dr. Arjun Patel,"MD in Psychiatry, Specialization in Geriatric Psychiatry",Ahmedabad,Monday-Thursday 11am-7pm,15,9500
+Dr. Shweta Gupta,"PhD in Clinical Psychology, Specialization in Neuropsychology",Mumbai,Tuesday-Thursday 10am-6pm,10,8000
+Dr. Aryan Singh,"MD in Psychiatry, Specialization in Addiction Medicine",Bangalore,Monday-Friday 9am-5pm,8,7500
+Dr. Ridhima Verma,"PhD in Counseling Psychology, Specialization in Couples Therapy",Delhi,Wednesday-Friday 2pm-8pm,12,8000
+Dr. Siddhartha Patel,"MD in Psychiatry, Specialization in Geriatric Psychiatry",Ahmedabad,Monday-Thursday 11am-7pm,14,9500
+Dr. Ananya Singh,"PhD in Clinical Psychology, Specialization in Child Psychology",Kolkata,Tuesday-Friday 10am-6pm,8,7000
+Dr. Rohini Verma,"MD in Psychiatry, Specialization in Forensic Psychiatry",Chennai,Monday-Wednesday 9am-5pm,11,8500
+Dr. Meera Kapoor,"PhD in Counseling Psychology, Specialization in Eating Disorders",Pune,Thursday-Saturday 2pm-8pm,13,9000
+Dr. Shyam Singh,"MD in Psychiatry, Specialization in Psychopharmacology",Jaipur,Monday-Friday 11am-7pm,16,10000
+Dr. Priya Patel,"MD in Clinical Psychology, Specialization in Cognitive Behavioral Therapy",Bangalore,Tuesday-Thursday 2pm-7pm,10,9000
+Dr. Ravi Gupta,"MD in Psychiatry, Specialization in Addiction Medicine",Delhi,"Monday-Friday 9am-1pm, 3pm-6pm",15,12000
+Dr. Sangeeta Singh,"PhD in Counseling Psychology, Specialization in Marriage and Family Therapy",Mumbai,Saturday 10am-3pm,8,7500
+Dr. Aarav Patel,"MD in Psychiatry, Specialization in Geriatric Psychiatry",Chennai,Monday-Wednesday 11am-4pm,12,9500
+Dr. Nidhi Kumar,"MD in Clinical Psychology, Specialization in Neuropsychology",Kolkata,Friday 2pm-7pm,11,8000
+Dr. Tanmay Jain,"MD in Psychiatry, Specialization in Child Psychiatry",Hyderabad,Monday-Wednesday 11am-4pm,13,8500
+Dr. Ananya Singh,"PhD in Counseling Psychology, Specialization in Group Therapy",Pune,Sunday 10am-3pm,9,7000
+Dr. Rohit Gupta,"MD in Psychiatry, Specialization in Forensic Psychiatry",Ahmedabad,"Monday-Friday 9am-1pm, 3pm-6pm",14,11000
+Dr. Pooja Patel,"MD in Clinical Psychology, Specialization in Health Psychology",Jaipur,Saturday 10am-3pm,7,6500
+Dr. Siddhartha Singh,"PhD in Counseling Psychology, Specialization in Art Therapy",Lucknow,Monday-Wednesday 11am-4pm,10,8000
+Dr. Ria Gupta,"MD in Psychiatry, Specialization in Psychosomatic Medicine",Kochi,Tuesday-Thursday 2pm-7pm,11,9000
+Dr. Aarav Patel,"MD in Psychiatry, Specialization in Geriatric Psychiatry",Chennai,Monday-Wednesday 11am-4pm,12,9500
+Dr. Nidhi Kumar,"MD in Clinical Psychology, Specialization in Neuropsychology",Kolkata,Friday 2pm-7pm,11,8000
+Dr. Tanmay Jain,"MD in Psychiatry, Specialization in Child Psychiatry",Hyderabad,Monday-Wednesday 11am-4pm,13,8500
+Dr. Ananya Singh,"PhD in Counseling Psychology, Specialization in Group Therapy",Pune,Sunday 10am-3pm,9,7000
+Dr. Anubhav Gupta,"MD in Psychiatry, Specialization in Forensic Psychiatry",Ahmedabad,"Monday-Friday 9am-1pm, 3pm-6pm",14,11000
+Dr. Pooja Patel,"MD in Clinical Psychology, Specialization in Health Psychology",Jaipur,Saturday 10am-3pm,7,6500
+Dr. Siddhartha Singh,"PhD in Counseling Psychology, Specialization in Art Therapy",Lucknow,Monday-Wednesday 11am-4pm,10,8000
+Dr. Ria Gupta,"MD in Psychiatry, Specialization in Psychosomatic Medicine",Kochi,Tuesday-Thursday 2pm-7pm,11,9000
+Dr. Ananya Gupta,"MD in Clinical Psychology, Specialization in Health Psychology",Bangalore,"Monday-Friday 10am-3pm, 5pm-8pm",8,7500
+Dr. Tanmay Singh,"PhD in Counseling Psychology, Specialization in Cognitive Behavioral Therapy",Delhi,Saturday 11am-4pm,12,9000
+Dr. Nidhi Patel,"MD in Psychiatry, Specialization in Geriatric Psychiatry",Mumbai,Tuesday-Thursday 2pm-7pm,10,8500
+Dr. Rohit Kumar,"PhD in Counseling Psychology, Specialization in Art Therapy",Chennai,Monday-Wednesday 11am-4pm,9,7000
+Dr. Pooja Gupta,"MD in Clinical Psychology, Specialization in Neuropsychology",Kolkata,Friday 10am-3pm,7,6500
+Dr. Siddhartha Patel,"MD in Psychiatry, Specialization in Child Psychiatry",Hyderabad,Monday-Wednesday 11am-4pm,13,8500
+Dr. Ria Singh,"PhD in Counseling Psychology, Specialization in Group Therapy",Pune,Sunday 10am-3pm,9,7000
+Dr. Sushant Gupta,"MD in Psychiatry, Specialization in Forensic Psychiatry",Ahmedabad,"Monday-Friday 9am-1pm, 3pm-6pm",14,11000
+Dr. Pooja Patel,"MD in Clinical Psychology, Specialization in Health Psychology",Jaipur,Saturday 10am-3pm,7,6500
+Dr. Smita Gupta,"MBBS, MD in Psychology, Specialization in Clinical Psychology",Mumbai,"Tuesday-Thursday 10am-5pm, Friday 3pm-8pm",10,9000
+Dr. Ravi Kumar,"MBBS, MD in Psychiatry, Specialization in Adult Psychiatry",Delhi,Monday-Friday 9am-6pm,15,10000
+Dr. Priya Patel,"MBBS, MD in Psychiatry, Specialization in Geriatric Psychiatry",Bangalore,Wednesday-Saturday 1pm-7pm,8,7500
+Dr. Aarav Singh,"MBBS, MD in Psychology, Specialization in Forensic Psychology",Chennai,"Monday-Thursday 11am-6pm, Friday 4pm-9pm",6,6000
+Dr. Nisha Verma,"MBBS, MD in Psychiatry, Specialization in Addiction Psychiatry",Kolkata,"Tuesday-Friday 10am-5pm, Saturday 12pm-5pm",12,8000
+Dr. Tanmay Jain,"MD in Psychiatry, Specialization in Child Psychiatry",Hyderabad,Monday-Wednesday 11am-4pm,9,8500
+Dr. Suresh Reddy,"MD in Psychiatry, Specialization in Geriatric Psychiatry",Hyderabad,Monday-Friday 10am-6pm,11,9000
+Dr. Bhoomi Rao,"MD in Psychiatry, Specialization in Child Psychiatry",Hyderabad,"Tuesday-Thursday 11am-4pm, Saturday 10am-1pm",7,7000
+Dr. Siddhartha Gupta,"MD in Psychiatry, Specialization in Adult Psychiatry",Hyderabad,"Monday-Wednesday 9am-5pm, Friday 3pm-8pm",14,11000
+Dr. Anjali Patel,"MD in Psychiatry, Specialization in Geriatric Psychiatry",Ahmedabad,Monday-Friday 10am-6pm,13,9500
+Dr. Ronit Singh,"MD in Psychiatry, Specialization in Addiction Psychiatry",Pune,"Tuesday-Thursday 11am-4pm, Saturday 12pm-5pm",8,7000
+Dr. Nidhi Verma,"MD in Psychiatry, Specialization in Child Psychiatry",Jaipur,"Monday-Wednesday 11am-4pm, Friday 3pm-8pm",6,6500
+Dr. Suresh Reddy,"MD in Psychiatry, Specialization in Geriatric Psychiatry",Hyderabad,Monday-Friday 10am-6pm,11,9000
+Dr. Meera Rao,"MD in Psychiatry, Specialization in Child Psychiatry",Hyderabad,"Tuesday-Thursday 11am-4pm, Saturday 10am-1pm",7,7000
+Dr. Siddhartha Gupta,"MD in Psychiatry, Specialization in Adult Psychiatry",Hyderabad,"Monday-Wednesday 9am-5pm, Friday 3pm-8pm",14,11000
+Dr. Anjali Patel,"MD in Psychiatry, Specialization in Geriatric Psychiatry",Ahmedabad,Monday-Friday 10am-6pm,13,9500
+Dr. R.P Singh,"MD in Psychiatry, Specialization in Addiction Psychiatry",Pune,"Tuesday-Thursday 11am-4pm, Saturday 12pm-5pm",8,7000
