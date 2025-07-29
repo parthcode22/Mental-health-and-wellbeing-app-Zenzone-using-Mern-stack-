@@ -1,5 +1,5 @@
 
-# 🧘‍♀️ Zenzone – Mental Health & Wellbeing App
+## 🧘‍♀️ Zenzone – Mental Health & Wellbeing App
 
 Zenzone is a full-featured **mental wellness application** built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Designed to support emotional wellbeing, Zenzone empowers users to track their mood, engage in mindfulness exercises, interact with a supportive community, and receive basic guidance through a custom-built chatbot.
 
