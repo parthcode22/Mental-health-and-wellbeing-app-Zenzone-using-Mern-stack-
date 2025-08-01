@@ -16,7 +16,7 @@ Zenzone is a full-featured **mental wellness application** built using the **MER
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 - **Frontend**: React.js, JavaScript, CSS  
 - **Backend**: Node.js, Express.js  
